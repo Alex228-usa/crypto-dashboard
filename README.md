@@ -18,6 +18,6 @@
 
 Clone the repository
 
-npm install
+npm install @reduxjs/toolkit react-redux recharts react-hook-form zod axios shadcn/ui tailwindcss postcss autoprefixer
 npm run dev
 
